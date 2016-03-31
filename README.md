@@ -1,2 +1,2 @@
-# Source_Sinai
+# DSAG
 Data Structures ans Algorithms.
