@@ -1,2 +1,3 @@
 # DSAG
-Data Structures ans Algorithms.
+
+**D**ata **S**tructures and **A**l**G**orithms.
